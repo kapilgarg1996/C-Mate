@@ -1,0 +1,12 @@
+<snippet>
+	<description>main()</description>
+	<content><![CDATA[
+		$1#include<stdio.h>
+		$2#include<stdlib.h>
+		$3#include<conio.h>
+		$4int main(){
+			$5
+			return 0 ;
+		}
+	]]></content>
+</snippet>
