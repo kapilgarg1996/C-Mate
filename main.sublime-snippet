@@ -4,7 +4,7 @@
 ${2:#include<stdlib.h>}
 ${3:#include<conio.h>}
 ${4:int main(){}
-	${0}
+	${0://code here}
 	return 0 ;
 }]]></content>
 	<tabTrigger>main</tabTrigger>
