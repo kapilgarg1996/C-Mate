@@ -1,0 +1,12 @@
+<snippet>
+	<description>swap() function</description>
+	<content><![CDATA[void swap(${1:int}, ${1:int}) ;
+void swap(${1:int} a, ${1:int} b){
+	${1:int} temp = a ;
+	a = b ;
+	b = temp ;
+}
+]]></content>
+	<tabTrigger>swap</tabTrigger>
+	<scope>source.c, source.objc, source.c++, source.objc++</scope> 
+</snippet>

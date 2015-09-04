@@ -1,0 +1,6 @@
+<snippet>
+	<description>scanf() function</description>
+	<content><![CDATA[scanf("%{1:d}", &${2:var}) ;]]></content>
+	<tabTrigger>scan</tabTrigger>
+	<scope>source.c, source.objc, source.c++, source.objc++</scope> 
+</snippet>

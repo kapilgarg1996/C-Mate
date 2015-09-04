@@ -1,0 +1,8 @@
+<snippet>
+	<description>for loop</description>
+	<content><![CDATA[for(i=1 ; i<=n ; i++){
+	${0://code}
+}]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.c, source.cpp</scope>
+</snippet>

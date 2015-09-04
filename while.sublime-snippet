@@ -1,0 +1,8 @@
+<snippet>
+	<description>while loop</description>
+	<content><![CDATA[while(${1:j}<${2:count}){
+	${1:j}++ ;
+}]]></content>
+	<tabTrigger>while</tabTrigger>
+	<scope>source.c, source.objc, source.c++, source.objc++</scope> 
+</snippet>
