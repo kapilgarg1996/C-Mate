@@ -1,0 +1,6 @@
+<snippet>
+	<description>typedef</description>
+	<content><![CDATA[typedef struct ${1:node} ${1:node}]]></content>
+	<tabTrigger>type</tabTrigger>
+	<scope>source.c, source.objc, source.c++, source.objc++</scope> 
+</snippet>

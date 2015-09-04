@@ -2,7 +2,6 @@
 	<description>main() function</description>
 	<content><![CDATA[${1:#include<stdio.h>}
 ${2:#include<stdlib.h>}
-${3:#include<conio.h>}
 ${4:int main(){}
 	${0://code here}
 	return 0 ;
