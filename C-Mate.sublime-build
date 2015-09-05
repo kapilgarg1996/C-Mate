@@ -8,10 +8,7 @@
      [
           {
                "name": "Run",
-               "shell_cmd": " gnome-terminal -x sh -c \"\"${file_path}/${file_base_name}\"; bash\""
-          }
-          "windows": {
-               "shell_cmd": "start cmd /k \"${file_path}/${file_base_name}\""
+               "shell_cmd": " gnome-terminal -x sh -c \"\"${file_path}/${file_base_name}\" && read in && exit ; bash\""
           }
      ]
  }

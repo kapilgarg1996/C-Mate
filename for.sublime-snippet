@@ -4,5 +4,5 @@
 	${0://code}
 }]]></content>
 	<tabTrigger>for</tabTrigger>
-	<scope>source.c, source.cpp</scope>
+	<scope>source.c, source.objc, source.c++, source.objc++</scope>
 </snippet>
